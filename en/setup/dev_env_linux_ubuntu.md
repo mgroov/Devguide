@@ -41,7 +41,7 @@ Notes:
 - If you're going work with ROS then follow the [ROS/Gazebo](#rosgazebo) instructions instead (these install Gazebo automatically, as part of the ROS installation).
 - You can verify the the NuttX installation by confirming the gcc version as shown:
   ```bash
-   $arm-none-eabi-gcc --version
+   arm-none-eabi-gcc --version
 
    arm-none-eabi-gcc (GNU Tools for Arm Embedded Processors 7-2017-q4-major) 7.2.1 20170904 (release) [ARM/embedded-7-branch revision 255204]
    Copyright (C) 2017 Free Software Foundation, Inc.
